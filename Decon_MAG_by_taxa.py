@@ -4,7 +4,7 @@
 __author__ = 'Yaxin Xue'
 __license__ = "GPL"
 __version__ = "1.0.0"
-__email__ = "yaxin.xue@uib.no"
+__email__ = "yaxin.xue@uib.no, xue.ethan@gmail.com"
 
 """
 import sys, os
